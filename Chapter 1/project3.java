@@ -1,4 +1,8 @@
-class Main {
+/*  Joseph Stowell, AP Computer Science A, Period 3 Sovick
+*   Due 9.12.19
+*   https://github.com/Jodastt/AP-Computer-Science-A/blob/master/Chapter%201/project3.java
+*/  
+class project3 {
   public static void main(String[] args) {
     
     song();
