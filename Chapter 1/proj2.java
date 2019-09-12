@@ -1,4 +1,9 @@
-public class proj2 {
+/*  Joseph Stowell
+*   Unit 1 Project 2
+*   Period 3 Sovick AP CS
+*/
+
+public class Main {
     
     public static void main(String[] args) {
         
@@ -22,7 +27,7 @@ public class proj2 {
 
     public static void letter3(){
         
-        letterTemplate("The IRS", "Saul Goodman", "Under the provisions of Public laws 95-109 and 99-361, known collectively as the Fair Debt Collections Practices Act (FDCPA), I formally notify you to cease all communications with me in regard to this debt, or any other debts that you allege I owe");
+        letterTemplate("The IRS", "Saul Goodman", "Under the provisions of Public laws 95-109 and 99-361, known collectively as the Fair Debt Collections Practices Act (FDCPA), I formally notify you to cease all communications with me in regard to this debt, or any other debts that you allege I owe.");
         
     }
     
@@ -31,6 +36,7 @@ public class proj2 {
         //template that writes boilerplate letter stuff, along with variables to be filled with information
         System.out.println("Dear " + recipient + ",");
         System.out.println(myMessage);
+        System.out.println("I appreciate your taking the time to read this letter.  Please reply promptly and enthusiastically.  I would love it if you could reply with a positive result for me if possible as well.");
         System.out.println("Sincerely, " + from + "\n");
 
     }
