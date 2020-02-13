@@ -1,3 +1,4 @@
+//Joseph Stowell
 public class Ticket {
     private int number;
     private int price;
