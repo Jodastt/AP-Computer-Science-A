@@ -1,3 +1,5 @@
+//Joseph Stowell
+
 import java.lang.Math;
 
 public class StudentTicket extends Ticket{
