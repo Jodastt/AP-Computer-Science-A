@@ -1,3 +1,4 @@
+//Joseph Stowell
 import java.lang.Math;
 
 public class AdvanceTickets extends Ticket{
